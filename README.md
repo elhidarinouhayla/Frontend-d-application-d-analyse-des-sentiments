@@ -16,15 +16,15 @@ Ce projet est un frontend simple en HTML/CSS/JS (vanilla JavaScript) qui permet 
 ```
 /frontend
 │
-├── index.html          → Page de Login
-├── index.css           → Style de la page Login
-├── login.js            → Logique JS du Login
+├── index.html     
+├── index.css        
+├── login.js           
 │
-├── home.html           → Page d’analyse de sentiment
-├── home_style.css      → Style de la page Home
-├── home.js             → Logique JS pour predict
+├── home.html        
+├── home_style.css    
+├── home.js             
 │
-└── README.md           → Documentation
+└── README.md           
 
 ```
 
