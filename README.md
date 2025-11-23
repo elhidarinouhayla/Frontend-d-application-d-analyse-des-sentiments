@@ -101,7 +101,7 @@ POST /login
 ```
 ### Endpoint Predit
 
-``shell
+```shell
 POST /predict
 Authorization: Bearer <token>
 ```
