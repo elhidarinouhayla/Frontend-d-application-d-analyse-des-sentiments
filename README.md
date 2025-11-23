@@ -106,7 +106,7 @@ POST /predict
 Authorization: Bearer <token>
 ```
 
-### Important :
+### Important
 Le backend doit être lancé avant d’utiliser le frontend :
 
 ```shell
